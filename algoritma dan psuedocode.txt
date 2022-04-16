@@ -1,0 +1,22 @@
+1.
+-algoritma
+buat var untuk mass
+buat var untuk volume
+cari tau rho dengan cara membagi massa dan volume
+-pseudocode
+STORE mass WITH NUMBER
+STORE colume WITH NUMBER
+SET rho WITH mass DIVIDE volume
+
+2.
+-algoritma
+buat var untuk tinggi
+buat var untuk r
+buat var untuk phi dengan isi 3.14
+cari tau luas permukaan tabung dengan rumus (2 x phi x tinggi x r) + (2 x phi x r x r)
+
+-pseudocode
+STORE tinggi WITH NUMBER
+STORE r WITH NUMBER
+STORE phi WITH 3.14
+SET luas_permukaan_tabung WITH (2 MULTIPLY phi MULTIPLY tinggi MULTIPLY r ) ADD (2 MULTIPLY phi MULTIPLY r MULTIPLY r )
