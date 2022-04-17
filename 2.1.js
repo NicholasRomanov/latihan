@@ -16,7 +16,7 @@ var power = 75;
 {
     console.log("you are basic ");
 }
- else if (power <= 30) 
+ else (power <= 30) 
 {
     console.log("you are a Beginner "); 
 }
