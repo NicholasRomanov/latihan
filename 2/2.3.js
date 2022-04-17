@@ -14,7 +14,7 @@ switch (coupon)
             var total = pembelian*0.95;
             console.log("total anda rp." + total)
         }
-        else (pembelian < 30000 )
+        else
         {
             var total = pembelian*0.975;
             console.log("total anda rp." + total)

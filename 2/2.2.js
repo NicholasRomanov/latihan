@@ -1,33 +1,27 @@
-var minuman = "Plain tea";
+var minuman = "plain tea";
 
-switch (minuman) {
-    
-    case 'Sweet Tea':
-    console.log("You choose Sweet Tea, thanks")
+switch (minuman){
+    case 'sweet tea':
+    console.log("You chose Sweet Tea, thanks")
      break;
-   
-    case 'Plain Tea':
-    console.log("You choose Plain Tea, thanks")
+    case 'plain tea':
+    console.log("You chose Plain Tea, thanks")
      break;
-   
-    case 'Boba':
-    console.log("You choose Boba, thanks")
+    case 'boba':
+    console.log("You chose Boba, thanks")
      break;
-    
-    case 'Milk Coffee':
-    console.log("You choose Milk Coffee, thanks")
+    case 'milk coffee':
+    console.log("You chose Milk Coffee, thanks")
      break;
-    
-    case 'Choco Ice':
-    console.log("You choose Choco Ice, thanks")
+    case 'choco ice':
+    console.log("You chose Choco Ice, thanks")
      break;
-    
     default:
-    
      if (minuman === "") {
     console.log("Input minuman")
-    } else if {
+    } else {
     console.log("minuman is undefined")
     }
      break;
 }
+   
