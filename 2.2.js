@@ -1,4 +1,4 @@
-var minuman = 'NGETEH';
+var minuman = 'Plain tea';
 
 switch (minuman) {
     
