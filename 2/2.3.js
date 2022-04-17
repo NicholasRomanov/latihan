@@ -31,4 +31,10 @@ switch (coupon)
             var total = pembelian;
             console.log("total anda rp." + total)
         }
+     default:
+        if (coupon === "") {
+             console.log("Pilih Coupon.")
+         } else {
+             console.log("Coupon is not defined.")
+        } 
 }
