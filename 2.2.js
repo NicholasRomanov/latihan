@@ -22,13 +22,12 @@ switch (minuman) {
     console.log("You choose Choco Ice, thanks")
      break;
     
-     default:
+    default:
     
      if (minuman === "") {
     console.log("Input minuman")
-    } else 
-    {
+    } else {
     console.log("minuman is undefined")
     }
-    break;
+     break;
 }
