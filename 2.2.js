@@ -1,24 +1,24 @@
-var minuman = "NGETEH";
+var minuman = 'NGETEH';
 
 switch (minuman) {
     
-    case "Sweet Tea":
+    case 'Sweet Tea':
     console.log("You choose Sweet Tea, thanks")
      break;
    
-    case "Plain Tea":
+    case 'Plain Tea':
     console.log("You choose Plain Tea, thanks")
      break;
    
-    case "Boba":
+    case 'Boba':
     console.log("You choose Boba, thanks")
      break;
     
-    case "Milk Coffee":
+    case 'Milk Coffee':
     console.log("You choose Milk Coffee, thanks")
      break;
     
-    case "Choco Ice":
+    case 'Choco Ice':
     console.log("You choose Choco Ice, thanks")
      break;
     
