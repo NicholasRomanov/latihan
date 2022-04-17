@@ -1,2 +1,2 @@
-var name = window.prompt("Enter your name: ");
+var name = prompt("Enter your name: ");
 alert("Your name is " + name);
