@@ -26,7 +26,7 @@ switch (minuman) {
     
      if (minuman === "") {
     console.log("Input minuman")
-    } else {
+    } else if {
     console.log("minuman is undefined")
     }
      break;

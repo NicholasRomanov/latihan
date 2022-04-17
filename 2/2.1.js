@@ -10,13 +10,13 @@ var power = 75;
 }
  else if (power <= 70 && power > 50 ) 
 {
-    console.log("you are Normal ");
+    console.log("you are Normal");
 }
  else if (power <= 50 && power > 30) 
 {
-    console.log("you are basic ");
+    console.log("you are basic");
 }
- else (power <= 30) 
+ else if (power <= 30) 
 {
-    console.log("you are a Beginner "); 
+    console.log("you are a Beginner"); 
 }
