@@ -15,4 +15,4 @@ for (var i = 0; i < kamus.length; i++) {
     }
     tempAlpha = []
 }
-console.log
+console.log(result)
